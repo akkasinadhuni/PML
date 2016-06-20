@@ -2,7 +2,7 @@
 title: "PML_assignment"
 author: "Aditya"
 date: "June 19, 2016"
-output: html_document
+output: pdf_document
 ---
 
 **This project aims to predict the quality of exercises performed by 6 individuals who performed these exercises correctly and incorrectly. The information was recorded from accelerometers placed on the belt, forearm, arm and dumbell. The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har. **
